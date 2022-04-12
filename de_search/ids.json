@@ -1,0 +1,18 @@
+{
+	"1": ["Página p... ¡Se requiere una licencia Advanced!", "index.htm", []],
+	"2": ["1. Inicio... ¡Se requiere una licencia Advanced!", "inicio_de_sesion.htm", []],
+	"3": ["1.1. Datos... ¡Se requiere una licencia Advanced!", "datos_personales.htm", [1]],
+	"4": ["1.2. Gestió... ¡Se requiere una licencia Advanced!", "gestion_de_usuario.htm", [1]],
+	"5": ["1.3. Gestión... ¡Se requiere una licencia Advanced!", "gestion_de_clientes.htm", [1]],
+	"6": ["1.4. Gestió... ¡Se requiere una licencia Advanced!", "gestion_de_almacen.htm", [1]],
+	"7": ["1.4.1. Gestió... ¡Se requiere una licencia Advanced!", "gestion_de_productos.htm", [1,5]],
+	"8": ["1.4.2. Gest... ¡Se requiere una licencia Advanced!", "gestion_atributo.htm", [1,5]],
+	"9": ["1.4.3. Ge... ¡Se requiere una licencia Advanced!", "gestion_lote.htm", [1,5]],
+	"10": ["1.5. Gesti... ¡Se requiere una licencia Advanced!", "gestion_compras.htm", [1]],
+	"11": ["1.5.1. Gestión... ¡Se requiere una licencia Advanced!", "gestion_de_proveedores.htm", [1,6]],
+	"12": ["1.5.2. Ges... ¡Se requiere una licencia Advanced!", "gestion_compra.htm", [1,6]],
+	"13": ["1.6. Gestió... ¡Se requiere una licencia Advanced!", "gestion_de_ventas.htm", [1]],
+	"14": ["1.6.1. Li... ¡Se requiere una licencia Advanced!", "lista_ventas.htm", [1,7]],
+	"15": ["1.6.2. Proce... ¡Se requiere una licencia Advanced!", "proceso_de_ventas.htm", [1,7]],
+	"16": ["1.7. Facturaci... ¡Se requiere una licencia Advanced!", "facturacion_electronica.htm", [1]]
+}

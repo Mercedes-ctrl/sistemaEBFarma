@@ -1,2 +1,2 @@
-# sistemaEBFarma
-Sistema web con PHP,AJAX,HTML,CSS,Y MYSQL
+# tesis
+Tesis desarrollado junto a Mercedes Quezada

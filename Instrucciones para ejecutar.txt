@@ -1,0 +1,23 @@
+Requisitos:
+-Tener instalado XAMPP (Última versión)
+¿Cómo hago correr el proyecto?
+1. Guarde el proyecto(tesis)en esta dirección: 
+    Ejemplo
+      C:\xampp\htdocs
+2. Asegúrese de ejecutar su XAMPP para habilitar la base de datos. Esto se logra activando los puertos 
+de Apache y MySQL(el numero de puerto activado en el XAMPP debe coincidir con el número de puerto 
+del archivo Conexion.php que se encuentra en la carpeta model que se encuentra dentro del proyecto(tesis)
+
+3. Para cargar la base de datos del sistema, en la ventana del XAMPP debe dirigirse al botón Admin del
+servicio de MySQL, dar clic en el menú horizontal, seleccione la opción ´´Importar´´ no sin antes crear una base 
+de datos llamada sistemafarmacia, y sólo exportara  los datos ubicados en la carpeta DB ubicadas en el
+interior del proyecto.
+La base de datos se encuentra en la carpeta BD, eliga el archivo (sistemafarmacia_v2.sql). Con este paso,
+ya está cargada la base de datos. 
+
+4. Para ver el proyecto, en cualquier navegador web ingrese o escriba: 
+    http://localhost/tesis/
+    Cuando cargue la interfaz de inicio de sesión
+   Ingresar con los siguientes datos: 
+   DNI:75727473
+   CONTRASEÑA:1234

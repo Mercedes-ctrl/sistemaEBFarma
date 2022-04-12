@@ -1,0 +1,19 @@
+[
+	{ "s": "ICONO", "p": [15, 13] },
+	{ "s": "IDENTIFICAR", "p": [2] },
+	{ "s": "IMPRESIÓN", "p": [16] },
+	{ "s": "IMPRIMIR", "p": [15, 14, 13] },
+	{ "s": "INDICAN", "p": [2] },
+	{ "s": "INFERIOR", "p": [15, 13, 2] },
+	{ "s": "INFORMA", "p": [2] },
+	{ "s": "INFORMACIÓN", "p": [15, 9, 7, 3] },
+	{ "s": "INGRESADO", "p": [3] },
+	{ "s": "INGRESAMOS", "p": [16, 13, 12, 3] },
+	{ "s": "INGRESANDO", "p": [2] },
+	{ "s": "INGRESAR", "p": [7, 2, 12, 11] },
+	{ "s": "INICIAR", "p": [2] },
+	{ "s": "INICIO", "p": [2] },
+	{ "s": "INSTRUCCIONES", "p": [1] },
+	{ "s": "INTERACTÚAN", "p": [14, 13, 12, 11, 7] },
+	{ "s": "IZQUIERDA", "p": [2] }
+]

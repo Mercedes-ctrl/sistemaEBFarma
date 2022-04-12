@@ -1,0 +1,21 @@
+[
+	{ "s": "REALICE", "p": [15] },
+	{ "s": "REALIZAR", "p": [15, 13, 12, 11, 2] },
+	{ "s": "RECIENTES", "p": [15] },
+	{ "s": "REGISTRADO", "p": [2] },
+	{ "s": "REGISTRADOS", "p": [11, 7, 5, 4] },
+	{ "s": "REGISTRAR", "p": [11, 7, 6, 5, 4] },
+	{ "s": "REGISTRARÁ", "p": [8] },
+	{ "s": "REGISTRO", "p": [12, 15, 13, 3] },
+	{ "s": "REGISTROS", "p": [14, 13, 12, 11] },
+	{ "s": "REPORTE", "p": [7, 6, 2] },
+	{ "s": "REPORTES", "p": [2] },
+	{ "s": "REQUERIDOS", "p": [12, 11, 7] },
+	{ "s": "RESPECTIVA", "p": [14, 13, 12, 11, 7] },
+	{ "s": "RESTANTE", "p": [9] },
+	{ "s": "REVISADO", "p": [15] },
+	{ "s": "RIESGO", "p": [2] },
+	{ "s": "ROJO", "p": [9] },
+	{ "s": "ROLES", "p": [4] },
+	{ "s": "RUC", "p": [11] }
+]
